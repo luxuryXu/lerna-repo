@@ -1,0 +1,10 @@
+{
+  "name": "xx-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xuhaipeng",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
