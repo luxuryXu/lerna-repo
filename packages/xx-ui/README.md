@@ -37,3 +37,7 @@ lerna add ts-loader --dev --scope=xx-ui
 
 # 添加全局dev包
 yarn add webpack --dev -W
+
+
+# 个人缺点
+表达能力不足，改变措施：加强思考，多做笔记，多做会前准备，多像他人学习

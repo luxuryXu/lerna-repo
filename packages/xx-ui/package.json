@@ -11,7 +11,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
     "lodash": "^4.17.20",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "xx-core": "^1.0.0"
   },
   "devDependencies": {
